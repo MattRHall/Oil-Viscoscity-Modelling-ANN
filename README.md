@@ -1,5 +1,5 @@
 ## Summary
-Predicting the viscosity of oil in many applications. This project was designed to show that using ML techniques it is possible to achieve good levels of accuracy in predicting viscosity given a set of conditions. Gradient Boosting was the most promising model, but a simple NN with 1 hidden layer also performed well.
+Predicting the viscosity of oil is important for many applications. This project was designed to show that using ML techniques it is possible to achieve good levels of accuracy in predicting viscosity given a set of conditions. Gradient Boosting was the most promising model, but a simple NN with 1 hidden layer also performed well.
 
 ## Purpose
 Oil viscosity is a measure of an oil's resistance to flow. It governs the sealing effect of oils, the rate of oil consumptions, the ease at which machines can be started, and the ease at which oil can be transported. Oil viscosity is dependent on a number of factors, such as temperature and pressure. The purpose of this study is to see if machine learning techniques can be used to predict the viscosity of oil under a certain set of conditions.
